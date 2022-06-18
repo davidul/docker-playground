@@ -1,4 +1,4 @@
-module docker-utils
+module docker-playground
 
 go 1.17
 
